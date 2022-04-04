@@ -1,0 +1,43 @@
+CancerType,Duration,Race,Sex,Age,Count
+Ovary,5-year Limited Duration,White,Female,Overall,56900
+Ovary,5-year Limited Duration,Other races,Female,Overall,4116
+Ovary,5-year Limited Duration,All Races and Ethnicities,Female,All Ages,66749
+Ovary,5-year Limited Duration,All Races and Ethnicities,Female,All Ages (Age-Adjusted)
+Ovary,5-year Limited Duration,All Races and Ethnicities,Female,0-19,854
+Ovary,5-year Limited Duration,All Races and Ethnicities,Female,20-29,1830
+Ovary,5-year Limited Duration,All Races and Ethnicities,Female,30-39,3298
+Ovary,5-year Limited Duration,All Races and Ethnicities,Female,40-49,7454
+Ovary,5-year Limited Duration,All Races and Ethnicities,Female,50-59,16007
+Ovary,5-year Limited Duration,All Races and Ethnicities,Female,60-69,18437
+Ovary,5-year Limited Duration,All Races and Ethnicities,Female,70-79,13086
+Ovary,5-year Limited Duration,All Races and Ethnicities,Female,80+,5783
+Ovary,5-year Limited Duration,White,Female,All Ages,56900
+Ovary,5-year Limited Duration,White,Female,All Ages (Age-Adjusted)
+Ovary,5-year Limited Duration,White,Female,0-19,637
+Ovary,5-year Limited Duration,White,Female,20-29,1422
+Ovary,5-year Limited Duration,White,Female,30-39,2617
+Ovary,5-year Limited Duration,White,Female,40-49,6004
+Ovary,5-year Limited Duration,White,Female,50-59,13356
+Ovary,5-year Limited Duration,White,Female,60-69,15958
+Ovary,5-year Limited Duration,White,Female,70-79,11677
+Ovary,5-year Limited Duration,White,Female,80+,5228
+Ovary,5-year Limited Duration,Black,Female,All Ages,5733
+Ovary,5-year Limited Duration,Black,Female,All Ages (Age-Adjusted)
+Ovary,5-year Limited Duration,Black,Female,0-19,153
+Ovary,5-year Limited Duration,Black,Female,20-29,254
+Ovary,5-year Limited Duration,Black,Female,30-39,383
+Ovary,5-year Limited Duration,Black,Female,40-49,741
+Ovary,5-year Limited Duration,Black,Female,50-59,1444
+Ovary,5-year Limited Duration,Black,Female,60-69,1490
+Ovary,5-year Limited Duration,Black,Female,70-79,907
+Ovary,5-year Limited Duration,Black,Female,80+,362
+Ovary,5-year Limited Duration,Other races,Female,All Ages,4116
+Ovary,5-year Limited Duration,Other races,Female,All Ages (Age-Adjusted)
+Ovary,5-year Limited Duration,Other races,Female,0-19,64
+Ovary,5-year Limited Duration,Other races,Female,20-29,154
+Ovary,5-year Limited Duration,Other races,Female,30-39,299
+Ovary,5-year Limited Duration,Other races,Female,40-49,709
+Ovary,5-year Limited Duration,Other races,Female,50-59,1207
+Ovary,5-year Limited Duration,Other races,Female,60-69,988
+Ovary,5-year Limited Duration,Other races,Female,70-79,501
+Ovary,5-year Limited Duration,Other races,Female,80+,193

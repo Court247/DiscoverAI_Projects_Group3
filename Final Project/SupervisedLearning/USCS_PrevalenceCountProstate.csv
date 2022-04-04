@@ -1,0 +1,43 @@
+CancerType,Duration,Race,Sex,Age,Count
+Prostate,5-year Limited Duration,White,Male,Overall,718162
+Prostate,5-year Limited Duration,Other races,Male,Overall,24018
+Prostate,5-year Limited Duration,All Races and Ethnicities,Male,All Ages,885573
+Prostate,5-year Limited Duration,All Races and Ethnicities,Male,All Ages (Age-Adjusted)
+Prostate,5-year Limited Duration,All Races and Ethnicities,Male,0-19,25
+Prostate,5-year Limited Duration,All Races and Ethnicities,Male,20-29,10
+Prostate,5-year Limited Duration,All Races and Ethnicities,Male,30-39,155
+Prostate,5-year Limited Duration,All Races and Ethnicities,Male,40-49,9596
+Prostate,5-year Limited Duration,All Races and Ethnicities,Male,50-59,124913
+Prostate,5-year Limited Duration,All Races and Ethnicities,Male,60-69,358975
+Prostate,5-year Limited Duration,All Races and Ethnicities,Male,70-79,304873
+Prostate,5-year Limited Duration,All Races and Ethnicities,Male,80+,87026
+Prostate,5-year Limited Duration,White,Male,All Ages,718162
+Prostate,5-year Limited Duration,White,Male,All Ages (Age-Adjusted)
+Prostate,5-year Limited Duration,White,Male,0-19,18
+Prostate,5-year Limited Duration,White,Male,20-29,6
+Prostate,5-year Limited Duration,White,Male,30-39,116
+Prostate,5-year Limited Duration,White,Male,40-49,6323
+Prostate,5-year Limited Duration,White,Male,50-59,92266
+Prostate,5-year Limited Duration,White,Male,60-69,284660
+Prostate,5-year Limited Duration,White,Male,70-79,258757
+Prostate,5-year Limited Duration,White,Male,80+,76017
+Prostate,5-year Limited Duration,Black,Male,All Ages,143393
+Prostate,5-year Limited Duration,Black,Male,All Ages (Age-Adjusted)
+Prostate,5-year Limited Duration,Black,Male,0-19,3
+Prostate,5-year Limited Duration,Black,Male,20-29,2
+Prostate,5-year Limited Duration,Black,Male,30-39,35
+Prostate,5-year Limited Duration,Black,Male,40-49,3050
+Prostate,5-year Limited Duration,Black,Male,50-59,29852
+Prostate,5-year Limited Duration,Black,Male,60-69,64938
+Prostate,5-year Limited Duration,Black,Male,70-79,37293
+Prostate,5-year Limited Duration,Black,Male,80+,8219
+Prostate,5-year Limited Duration,Other races,Male,All Ages,24018
+Prostate,5-year Limited Duration,Other races,Male,All Ages (Age-Adjusted)
+Prostate,5-year Limited Duration,Other races,Male,0-19,3
+Prostate,5-year Limited Duration,Other races,Male,20-29,2
+Prostate,5-year Limited Duration,Other races,Male,30-39,3
+Prostate,5-year Limited Duration,Other races,Male,40-49,223
+Prostate,5-year Limited Duration,Other races,Male,50-59,2794
+Prostate,5-year Limited Duration,Other races,Male,60-69,9378
+Prostate,5-year Limited Duration,Other races,Male,70-79,8824
+Prostate,5-year Limited Duration,Other races,Male,80+,2790

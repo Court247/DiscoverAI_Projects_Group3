@@ -1,0 +1,43 @@
+CancerType,Duration,Race,Sex,Age,Count
+Cervix,5-year Limited Duration,White,Female,Overall,39000
+Cervix,5-year Limited Duration,Other races,Female,Overall,3221
+Cervix,5-year Limited Duration,All Races and Ethnicities,Female,All Ages,49092
+Cervix,5-year Limited Duration,All Races and Ethnicities,Female,All Ages (Age-Adjusted)
+Cervix,5-year Limited Duration,All Races and Ethnicities,Female,0-19,36
+Cervix,5-year Limited Duration,All Races and Ethnicities,Female,20-29,1513
+Cervix,5-year Limited Duration,All Races and Ethnicities,Female,30-39,9789
+Cervix,5-year Limited Duration,All Races and Ethnicities,Female,40-49,12940
+Cervix,5-year Limited Duration,All Races and Ethnicities,Female,50-59,11036
+Cervix,5-year Limited Duration,All Races and Ethnicities,Female,60-69,8246
+Cervix,5-year Limited Duration,All Races and Ethnicities,Female,70-79,3907
+Cervix,5-year Limited Duration,All Races and Ethnicities,Female,80+,1626
+Cervix,5-year Limited Duration,White,Female,All Ages,39000
+Cervix,5-year Limited Duration,White,Female,All Ages (Age-Adjusted)
+Cervix,5-year Limited Duration,White,Female,0-19,27
+Cervix,5-year Limited Duration,White,Female,20-29,1202
+Cervix,5-year Limited Duration,White,Female,30-39,8083
+Cervix,5-year Limited Duration,White,Female,40-49,10455
+Cervix,5-year Limited Duration,White,Female,50-59,8666
+Cervix,5-year Limited Duration,White,Female,60-69,6385
+Cervix,5-year Limited Duration,White,Female,70-79,2981
+Cervix,5-year Limited Duration,White,Female,80+,1201
+Cervix,5-year Limited Duration,Black,Female,All Ages,6871
+Cervix,5-year Limited Duration,Black,Female,All Ages (Age-Adjusted)
+Cervix,5-year Limited Duration,Black,Female,0-19,8
+Cervix,5-year Limited Duration,Black,Female,20-29,228
+Cervix,5-year Limited Duration,Black,Female,30-39,1176
+Cervix,5-year Limited Duration,Black,Female,40-49,1594
+Cervix,5-year Limited Duration,Black,Female,50-59,1633
+Cervix,5-year Limited Duration,Black,Female,60-69,1290
+Cervix,5-year Limited Duration,Black,Female,70-79,655
+Cervix,5-year Limited Duration,Black,Female,80+,288
+Cervix,5-year Limited Duration,Other races,Female,All Ages,3221
+Cervix,5-year Limited Duration,Other races,Female,All Ages (Age-Adjusted)
+Cervix,5-year Limited Duration,Other races,Female,0-19,1
+Cervix,5-year Limited Duration,Other races,Female,20-29,83
+Cervix,5-year Limited Duration,Other races,Female,30-39,530
+Cervix,5-year Limited Duration,Other races,Female,40-49,891
+Cervix,5-year Limited Duration,Other races,Female,50-59,737
+Cervix,5-year Limited Duration,Other races,Female,60-69,571
+Cervix,5-year Limited Duration,Other races,Female,70-79,270
+Cervix,5-year Limited Duration,Other races,Female,80+,137

@@ -1,0 +1,43 @@
+CancerType,Duration,Race,Sex,Age,Count
+Female Breast,5-year Limited Duration,White,Female,Overall,894564
+Female Breast,5-year Limited Duration,Other races,Female,Overall,52645
+Female Breast,5-year Limited Duration,All Races and Ethnicities,Female,All Ages,1067596
+Female Breast,5-year Limited Duration,All Races and Ethnicities,Female,All Ages (Age-Adjusted)
+Female Breast,5-year Limited Duration,All Races and Ethnicities,Female,0-19,44
+Female Breast,5-year Limited Duration,All Races and Ethnicities,Female,20-29,3063
+Female Breast,5-year Limited Duration,All Races and Ethnicities,Female,30-39,30917
+Female Breast,5-year Limited Duration,All Races and Ethnicities,Female,40-49,120600
+Female Breast,5-year Limited Duration,All Races and Ethnicities,Female,50-59,232058
+Female Breast,5-year Limited Duration,All Races and Ethnicities,Female,60-69,303143
+Female Breast,5-year Limited Duration,All Races and Ethnicities,Female,70-79,249019
+Female Breast,5-year Limited Duration,All Races and Ethnicities,Female,80+,128751
+Female Breast,5-year Limited Duration,White,Female,All Ages,894564
+Female Breast,5-year Limited Duration,White,Female,All Ages (Age-Adjusted)
+Female Breast,5-year Limited Duration,White,Female,0-19,29
+Female Breast,5-year Limited Duration,White,Female,20-29,2215
+Female Breast,5-year Limited Duration,White,Female,30-39,23240
+Female Breast,5-year Limited Duration,White,Female,40-49,93930
+Female Breast,5-year Limited Duration,White,Female,50-59,188057
+Female Breast,5-year Limited Duration,White,Female,60-69,254112
+Female Breast,5-year Limited Duration,White,Female,70-79,218158
+Female Breast,5-year Limited Duration,White,Female,80+,114823
+Female Breast,5-year Limited Duration,Black,Female,All Ages,120387
+Female Breast,5-year Limited Duration,Black,Female,All Ages (Age-Adjusted)
+Female Breast,5-year Limited Duration,Black,Female,0-19,13
+Female Breast,5-year Limited Duration,Black,Female,20-29,643
+Female Breast,5-year Limited Duration,Black,Female,30-39,5158
+Female Breast,5-year Limited Duration,Black,Female,40-49,16566
+Female Breast,5-year Limited Duration,Black,Female,50-59,30431
+Female Breast,5-year Limited Duration,Black,Female,60-69,34867
+Female Breast,5-year Limited Duration,Black,Female,70-79,22117
+Female Breast,5-year Limited Duration,Black,Female,80+,10592
+Female Breast,5-year Limited Duration,Other races,Female,All Ages,52645
+Female Breast,5-year Limited Duration,Other races,Female,All Ages (Age-Adjusted)
+Female Breast,5-year Limited Duration,Other races,Female,0-19,2
+Female Breast,5-year Limited Duration,Other races,Female,20-29,205
+Female Breast,5-year Limited Duration,Other races,Female,30-39,2518
+Female Breast,5-year Limited Duration,Other races,Female,40-49,10104
+Female Breast,5-year Limited Duration,Other races,Female,50-59,13571
+Female Breast,5-year Limited Duration,Other races,Female,60-69,14164
+Female Breast,5-year Limited Duration,Other races,Female,70-79,8743
+Female Breast,5-year Limited Duration,Other races,Female,80+,3336
