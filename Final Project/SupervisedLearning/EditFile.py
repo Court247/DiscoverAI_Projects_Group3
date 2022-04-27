@@ -9,14 +9,11 @@ count = 0
 
 for line in lines:
     tokens = line.split(",")
-    if tokens[3] == 'Female':
-        tokens[3] = 1
-    if tokens[3] == 'Male':
-        tokens[3] = 0
-    if tokens[6] != "COVID-19 Deaths" and int(tokens[6]) > 900:
-        tokens[7] = True;
-    if tokens[6] != "COVID-19 Deaths" and int(tokens[6]) < 900:
-        tokens[7] = False;
+
+    if tokens[3] != "COVID-19 Deaths" and int(tokens[3]) > 900:
+        tokens[4] = "T"
+    if tokens[3] != "COVID-19 Deaths" and int(tokens[3]) < 900:
+        tokens[4] = "F"
     l.append(tokens)
 
 
